@@ -1,0 +1,6 @@
+{
+    "name": "Manjaro (Cool)",
+    "extends": "Manjaro.hidden-theme",
+    "variables": {},
+    "rules": []
+}
