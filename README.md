@@ -7,7 +7,13 @@ The Sublime Merge Theme as a template with the Manjaro color palette.
 ## Install
 
 Assuming the required color scheme is installed, git clone the project or download it into your Sublime Merge `Packages`
-folder as `Manjaro Theme`. Edit your merge `Preferences.sublime-settings` file to use the Mariana theme:
+folder as `Manjaro Theme`.
+
+```bash
+git clone https://github.com/asapdotid/manjaro-theme-sb-merge.git Manjaro\ Theme
+```
+
+Edit your merge `Preferences.sublime-settings` file to use the Mariana theme:
 
 ```json
     "theme": "Manjaro (Cool).sublime-theme"
